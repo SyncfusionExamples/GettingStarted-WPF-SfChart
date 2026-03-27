@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.SfChart.WPF" Version="33.1.45" />
+    <PackageReference Include="Syncfusion.SfChart.WPF" Version="*" />
   </ItemGroup>
 
 </Project>
