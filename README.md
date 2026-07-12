@@ -294,7 +294,7 @@ The following is the complete `MainWindow.xaml` combining all the above configur
 
 The chart rendered as a result of the above code:
 
-![WPF SfChart Getting Started](https://help.syncfusion.com/wpf/charts/Getting-Started_images/wpf-chart-tooltip.png)
+![WPF SfChart Getting Started](GettingStarted.png)
 
 ---
 
